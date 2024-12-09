@@ -2,7 +2,6 @@ package hop_4;
 
 public class Fan {
 
-
     private int speed;
     private boolean on = false;
     private double radius = 5;
