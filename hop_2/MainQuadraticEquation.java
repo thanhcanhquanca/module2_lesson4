@@ -16,7 +16,8 @@ public class MainQuadraticEquation {
         QuadraticEquation eq = new QuadraticEquation(a,b,c);
 
         System.out.println("In ra ket qua cua a " + eq.getA());
-        System.out.println("In ");
+        System.out.println("In ra ket qua phuong trinh 1 : " + eq.getRoot1());
+        System.out.println("In ra ket qua phuong trinh 2 : " + eq.getRoot2());
 
         System.out.println(eq);
 
